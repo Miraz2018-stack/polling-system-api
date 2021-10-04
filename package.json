@@ -1,0 +1,29 @@
+{
+  "name": "19.mock-test-3.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Miraz2018-stack/polling-system-api.git"
+  },
+  "author": "Miraz Uddin Molla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miraz2018-stack/polling-system-api/issues"
+  },
+  "homepage": "https://github.com/Miraz2018-stack/polling-system-api#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.9",
+    "nodemon": "^2.0.13",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  }
+}
